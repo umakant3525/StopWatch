@@ -7,7 +7,7 @@ A simple and functional stopwatch application to track time with precision, buil
 The Stopwatch App is a beginner-friendly project designed to help you learn and practice core web development technologies, including HTML, CSS, and JavaScript. This app provides users with a user-friendly and responsive stopwatch to track time accurately.
 
 ## Demo
-[Link to Live Demo](https://your-demo-link-here)
+[Link to Live Demo](https://umakant3525.github.io/StopWatch/)
 
 # Technologies Used
 - HTML
